@@ -1,0 +1,80 @@
+/* body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f8;
+  margin: 0;
+}
+
+.container {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.input {
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+.btn {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.primary {
+  background-color: #007bff;
+  color: white;
+}
+
+.edit {
+  background-color: #17a2b8;
+  color: white;
+}
+
+.warning {
+  background-color: #ffc107;
+}
+
+.danger {
+  background-color: #dc3545;
+  color: white;
+}
+
+.card {
+  background: white;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 15px;
+}
+
+.favorite {
+  background-color: #fff3cd;
+}
+
+.button-group {
+  margin-top: 10px;
+  display: flex;
+  gap: 8px;
+}
+
+.empty {
+  text-align: center;
+  margin-top: 20px;
+  color: gray;
+} */
